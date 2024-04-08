@@ -1,5 +1,6 @@
 
 Atividade arquitetura de computadores
+
 Descrição: Trabalho valendo 4 pontos na disciplina: arquitetura de computadores.
 
 Componentes:

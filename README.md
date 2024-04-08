@@ -1,9 +1,10 @@
 
 Atividade arquitetura de computadores
 
-Descrição: Trabalho valendo 4 pontos na disciplina: arquitetura de computadores.
+DESCRIÇÃO: Trabalho valendo 4 pontos na disciplina: arquitetura de computadores.
 
-Componentes:
+COMPONENTES:
+
 Victor Fernandes | Github: https://github.com/victorfernn;
 
 Daniel Lacerda Melo | Github: https://github.com/DLacerdadev;
